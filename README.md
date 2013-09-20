@@ -5,4 +5,4 @@ Twin-Cube
 
 <a href="http://mawaliya.com/projects/twincube/"> Working Demo </a>
 
-<img src="https://github.com/mawaliya/Twin-Cube/blob/master/twincube.png" title="CSS3 3D"/>
+<img src="https://raw.github.com/mawaliya/Twin-Cube/master/twincube.png" title="CSS3 3D"/>
